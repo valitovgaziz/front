@@ -18,4 +18,7 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+import AddTodoInput from '../components/AddTodoInput.vue'
+import TodoItem from '../components/TodoItem.vue'
+</script>
